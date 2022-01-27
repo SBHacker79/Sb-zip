@@ -1,6 +1,6 @@
-<h1 align="center">SB-zip v1.0</h1>
+<h1 align="center">Sb-zip v1.0</h1>
 
-# SB-zip
+# Sb-zip
 Crack zip files password.
 
 ![](pas.png)
@@ -17,7 +17,7 @@ $ apt install git
 
 $ git clone https://github.com/SBHacker79/Sb-zip.git
 
-$ cd SB-zip
+$ cd Sb-zip
 
 $ python SB zip.py
 
