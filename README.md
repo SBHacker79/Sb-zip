@@ -19,7 +19,7 @@ $ git clone https://github.com/SBHacker79/Sb-zip.git
 
 $ cd Sb-zip
 
-$ python SB zip.py
+$ python Sb zip.py
 
 $ /sdcard/enter zip file name
 
